@@ -7,8 +7,8 @@ The course is structured into two lessons and a final project. In the first less
 
 By the end of the course, students will have:
 
-Developed a practical application using skills from previous modules.
-Gained experience evaluating projects using a structured rubric.
-Demonstrated comprehension of the final project through a graded quiz.
-Understood the purpose and functionality of the Hugging Face community and tools.
-This hands-on module strengthens students' technical abilities and their understanding of AI-driven recommendation systems.
+-Developed a practical application using skills from previous modules.
+-Gained experience evaluating projects using a structured rubric.
+-Demonstrated comprehension of the final project through a graded quiz.
+-Understood the purpose and functionality of the Hugging Face community and tools.
+-This hands-on module strengthens students' technical abilities and their understanding of AI-driven recommendation systems.
